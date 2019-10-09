@@ -1,246 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9819b7ab-0fbc-40d5-b934-8e7f22d0c912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/src/main/java/com/sample/webapp/WebApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/src/main/java/com/sample/webapp/controllers/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app-routing.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/header/header.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/header/header.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-detail/recipe-detail.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-edit/recipe-edit.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-edit/recipe-edit.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-edit/recipe-edit.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-start/recipe-start.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-start/recipe-start.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe-start/recipe-start.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe.model.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipe.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipes.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipes.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/recipes/recipes.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shared/dropdown.directive.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shared/ingredient.model.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-edit/shopping-edit.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-edit/shopping-edit.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-list.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-list.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/tslint.json" beforeDir="false" />
+    <list default="true" id="99f2fdf2-ff44-4f89-9df6-e418a5723615" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/WebApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/webapp/WebApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/controllers/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/webapp/controllers/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Study" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Typescript/enums.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Typescript/generics.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Typescript/hello-world.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Typescript/interfaces.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Typescript/person-class.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/es2015-polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/es2015-polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/styles.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/WebApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/controllers/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/es2015-polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/es2015-polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/main.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/polyfills.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/runtime.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/styles.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/vendor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar.original" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>shade</find>
-      <find>out</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/WebApp.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" />
-        <option value="$PROJECT_DIR$/src/main/frontend/angular.json" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\H94703581\.m2\repository" />
-        <option name="userSettingsFile" value="C:\Users\H94703581\.m2\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
-        <option name="vmOptionsForImporter" value="-Xmx768m -DproxySet=true -DproxyHost=ibinproxy01 -DproxyPort=3128" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SampleWebApp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SampleWebApp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="SampleWebApp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1RypR6XBustACYOgOyp9jvR1hNl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ROLA/Workspaces/Java/rsnetmanexporterbackend" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15740073" />
-    <property name="project.structure.side.proportion" value="0.38936782" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\DATA\Projects\TMP\FullStack\simple-webapp\webapp\src\main\resources\static" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -259,177 +140,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9819b7ab-0fbc-40d5-b934-8e7f22d0c912" name="Default Changelist" comment="" />
-      <created>1570538383759</created>
+      <changelist id="99f2fdf2-ff44-4f89-9df6-e418a5723615" name="Default Changelist" comment="" />
+      <created>1570649178517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570538383759</updated>
+      <updated>1570649178517</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21321961" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="DB Browser" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35369775" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="DB Execution Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.40192926" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.23134328" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/frontend/dist/front-end/es2015-polyfills.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/es2015-polyfills.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/WebApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/frontend/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.38936782" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.38936782" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>webapp</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.38936782" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
