@@ -6,8 +6,4 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-	@RequestMapping("/")
-	public String home() {
-		return "Application is running";
-	}
 }
