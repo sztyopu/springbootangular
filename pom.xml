@@ -36,20 +36,28 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
+                <groupId>org.codehaus.mojo</groupId>
                 <version>1.6.0</version>
                 <executions>
                     <execution>
-                        <phase>validate</phase>
+                        <id>angular-cli build</id>
                         <goals>
                             <goal>exec</goal>
                         </goals>
+                        <phase>generate-resources</phase>
+                        <configuration>
+                            <executable>ng</executable>
+                            <arguments>
+                                <argument>build</argument>
+                                <argument>--prod</argument>
+                                <argument>--bh</argument>
+                                <argument>/carrental-web/</argument>
+                            </arguments>
+                            <workingDirectory>${basedir}/src/frontend</workingDirectory>
+                        </configuration>
                     </execution>
                 </executions>
-                <configuration>
-                    <executable>ng</executable>
-                </configuration>
             </plugin>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
