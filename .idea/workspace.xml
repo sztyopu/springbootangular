@@ -2,27 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9819b7ab-0fbc-40d5-b934-8e7f22d0c912" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Guest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/enums/Status.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/3rdpartylicenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/es2015-polyfills.bda95d5896422d031328.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.11bb181079104d854582.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/polyfills.8bbb231b43165d65d357.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/runtime.26209474bfa8dc87a77c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/styles.3ff695c00d717f2d2a11.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/components/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/components/login/login.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/components/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/frontend/src/app/components/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/frontend/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/frontend/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Admin.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -65,6 +57,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="12" selection-start-line="12" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1010#1011#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Address.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -118,12 +132,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/interfaces/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/enums/Status.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/interfaces/IUser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Guest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Address.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java" />
       </list>
     </option>
   </component>
@@ -163,7 +177,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1066" />
@@ -280,8 +294,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21748401" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -367,50 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1050#1051#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
-            <element signature="e#1131#1132#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1238#1239#0" expanded="true" />
-            <element signature="e#1261#1262#0" expanded="true" />
-            <element signature="e#1306#1307#0" expanded="true" />
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1395#1396#0" expanded="true" />
-            <element signature="e#1442#1443#0" expanded="true" />
-            <element signature="e#1477#1478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -452,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Guest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -492,6 +454,33 @@
             <element signature="e#560#561#0" expanded="true" />
             <element signature="e#579#580#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sample/webapp/entities/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

@@ -10,8 +10,10 @@ public class User {
 		super();
 	}
 
+	private String id;
 	private String firstName;
 	private String lastName;
+	private String userName;
 	private Date birthDate;
 	private Address address;
 	private Status status;
@@ -29,7 +31,21 @@ public class User {
 		return false;
 	}
 
+	public String getUserName() {
+		return userName;
+	}
 
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	public void setId(String id) {
+		this.id = id;
+	}
 
 	public String getFirstName() {
 		return firstName;
