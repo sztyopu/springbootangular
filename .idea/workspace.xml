@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/src/main/java/com/sample/webapp/WebApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../TheMasterTewy-master/webapp/src/main/java/com/sample/webapp/controllers/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Angular/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/.gitignore" beforeDir="false" />
@@ -74,13 +73,7 @@
       <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/src/tslint.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/tsconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Angular/first-project/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sample/webapp/controllers/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/WebApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/webapp/WebApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sample/webapp/controllers/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sample/webapp/controllers/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/webapp-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Study" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Typescript/enums.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Typescript/generics.ts" beforeDir="false" />
@@ -105,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="99">
-              <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -186,8 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,7 +224,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../ROLA/Workspaces/Java/rsnetmanexporterbackend" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15740073" />
     <property name="project.structure.side.proportion" value="0.38936782" />
@@ -270,7 +263,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21321961" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2153518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -341,7 +334,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
         </state>
       </provider>
     </entry>
