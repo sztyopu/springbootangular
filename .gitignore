@@ -1,1 +1,4 @@
 /target/
+workspace.xml
+workspace.xml.bak
+workspace.xml.orig
