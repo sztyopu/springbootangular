@@ -36,12 +36,12 @@
     <build>
         <plugins>
             <plugin>
-                <artifactId>exec-maven-plugin</artifactId>
                 <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
                 <version>1.6.0</version>
                 <executions>
                     <execution>
-                        <id>angular-cli build</id>
+                        <id>angular-cli_build</id>
                         <goals>
                             <goal>exec</goal>
                         </goals>
@@ -51,10 +51,8 @@
                             <arguments>
                                 <argument>build</argument>
                                 <argument>--prod</argument>
-                                <argument>--bh</argument>
-                                <argument>/carrental-web/</argument>
                             </arguments>
-                            <workingDirectory>${basedir}/src/frontend</workingDirectory>
+                            <workingDirectory>${basedir}/src/main/frontend/</workingDirectory>
                         </configuration>
                     </execution>
                 </executions>
