@@ -1,13 +1,16 @@
-<mat-card>
-  <form class="login-form">
-    <mat-form-field class="full-width">
-      <input matInput placeholder="Username">
-    </mat-form-field>
-    <mat-form-field class="full-width">
-      <input matInput placeholder="Password">
-    </mat-form-field>
-    <mat-form-field>
-      <button mat-button>Sing In</button>
-    </mat-form-field>
-  </form>
-</mat-card>
+<div class="dialog-box-header">
+  <h1 mat-dialog-title>SIGN IN</h1>
+  <button mat-button (click)="onNoClick()">X</button>
+</div>
+<form [formGroup]="loginFormService.getLigInFormGroup()" onsubmit="onSubmit()">
+  <mat-form-field class="form-field-container">
+    <input matInput type="text" #userName placeholder="USERNAME" formControlName="userName">
+    <mat-error *ngIf="'userName.invalid'">Please add a valid username</mat-error>
+  </mat-form-field>
+  <mat-form-field class="form-field-container">
+    <input matInput type="password" #passwors placeholder="PASSWORD" formControlName="password">
+    <mat-error *ngIf="'password.invalid'">Please type a valid password. At lest 8 character, must contain number and
+      spcial character</mat-error>
+  </mat-form-field>
+  <button mat-button type="submit primary" class="config-button" id="save-conf-btn">Sign in</button>
+</form>
